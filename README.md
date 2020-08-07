@@ -5,3 +5,5 @@ This repository contains the source code to predict the occurence of an accident
 ## Folder Structure
 - mains: contains the scripts for the hyperparameter tuning, the training and the evaluation of the models
 - src: contains the scripts for the generation of the dataset
+
+pyspark_submit.sh is used to run the scripts on  [ComputeCanada](http://localhost:3000) to view it in the browser.
